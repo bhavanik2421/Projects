@@ -1,2 +1,2 @@
 # Projects
-machine learning in image processing
+Image processing task using Deep neural networks and machine learning
